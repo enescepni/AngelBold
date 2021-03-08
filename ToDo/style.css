@@ -1,0 +1,24 @@
+*{
+
+}
+a{
+    color: #dc3545;
+}
+
+.card-header{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(92, 143, 238);
+    color:white;
+}
+
+#header{
+    font-size: 23px;
+}
+
+.list-group-item-secondary:nth-child(odd){
+    background-color:white;
+}
+
+.list-group-item-secondary:nth-child(even){
+    background-color: rgb(204, 203, 206);
+}
